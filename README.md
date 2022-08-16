@@ -1,0 +1,1 @@
+# EdgeImpulse_predictive_maintenance_with_tinyml_syntiant
